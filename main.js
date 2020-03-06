@@ -4,6 +4,9 @@ function hello() {
   console.log('hello there 2');
 }
 
+function fix() {
+  console.log('fix');
+
 function newStuff() {
   console.log('new stuff');
 }
