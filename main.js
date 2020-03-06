@@ -6,4 +6,11 @@ function hello() {
 
 function fix() {
   console.log('fix');
+
+function newStuff() {
+  console.log('new stuff');
+}
+
+function evenMoreStuff() {
+  console.log('yes');
 }
