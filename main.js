@@ -7,3 +7,7 @@ function hello() {
 function newStuff() {
   console.log('new stuff');
 }
+
+function evenMoreStuff() {
+  console.log('yes');
+}
